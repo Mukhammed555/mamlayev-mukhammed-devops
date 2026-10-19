@@ -12,3 +12,7 @@ Folders:
 - config - config file
 - logs - log files
 - backup - backup files
+
+How to run:
+docker build -t mamlayev-mukhammed-devops .
+docker run -p 5000:5000 mamlayev-mukhammed-devops
