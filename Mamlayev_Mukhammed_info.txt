@@ -1,0 +1,5 @@
+Name: Mukhammed
+Surname: Mamlayev
+Group: IT2-2306
+Student ID: 37060
+Course: DevOps
