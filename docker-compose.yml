@@ -1,0 +1,12 @@
+services:
+  app:
+    build: .
+    image: mamlayev-mukhammed-devops
+    container_name: mamlayev-mukhammed-compose
+    ports:
+      - "5001:5000"
+    environment:
+      - STUDENT_NAME=Mukhammed
+      - STUDENT_SURNAME=Mamlayev
+      - STUDENT_GROUP=IT2-2306
+      - STUDENT_ID=37060
